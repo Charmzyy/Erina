@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168445840532",
+    "project_id": "erina2123",
+    "storage_bucket": "erina2123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168445840532:android:cfeae4168ed4673cb3b881",
+        "android_client_info": {
+          "package_name": "com.example.erina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168445840532-5a37aj7icfvdtm7jhk5amqj7tq4jrmkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSGEHc04cYB55dPniPKRV7mRC6HJ2tpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168445840532-5a37aj7icfvdtm7jhk5amqj7tq4jrmkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
